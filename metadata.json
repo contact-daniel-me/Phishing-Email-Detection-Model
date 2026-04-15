@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Guard AI",
+  "description": "An end-to-end phishing email detection system featuring a Scikit-learn Python model and an interactive React dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
